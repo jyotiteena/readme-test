@@ -36,3 +36,6 @@ git commit -m "testing"
 *italic*
 **bold**
 ***italic and bold***
+
+### screenshot
+![ss1](ss1.png)
