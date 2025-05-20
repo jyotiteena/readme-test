@@ -43,4 +43,5 @@ git commit -m "testing"
 ### screenshot
 ![ss1](ss1.png)
 
-<u>This text is underlined</u>
+<h2>This is an H2 tag using HTML</h2>
+<p>This is a paragraph with <strong>bold</strong> and <em>italic</em> text.</p>
