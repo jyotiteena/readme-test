@@ -9,3 +9,15 @@ sdfkhsdfksdhfkdshfhjsd
 * full stack
 _italic text
 __testing
+
+## CSS
+- item1
+- item2
+- item3
+
+## copy code
+```bash
+git add . 
+git commit -m "testing"
+
+** END
