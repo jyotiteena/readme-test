@@ -38,4 +38,4 @@ git commit -m "testing"
 ***italic and bold***
 
 ### screenshot
-![ss1](ss1.png)
+![ss1](ss1.psng)
