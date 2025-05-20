@@ -24,3 +24,15 @@ git commit -m "testing"
 **END**
 
 ---
+
+## create table
+
+| Name     | Age | Role        |
+|----------|-----|-------------|
+| Alice    | 24  | Developer   |
+| Bob      | 29  | Designer    |
+| Charlie  | 32  | Team Lead   |
+
+*italic*
+**bold**
+***italic and bold***
