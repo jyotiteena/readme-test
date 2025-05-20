@@ -7,5 +7,5 @@ sdfkhsdfksdhfkdshfhjsd
 * frontend
 * backend
 * full stack
-_ italic text
-__ testing
+_italic text
+__testing
