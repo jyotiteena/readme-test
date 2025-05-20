@@ -18,6 +18,9 @@ __testing
 ## copy code
 ```bash
 git add . 
+```
+
+```bash
 git commit -m "testing"
 ```
 
@@ -38,4 +41,4 @@ git commit -m "testing"
 ***italic and bold***
 
 ### screenshot
-![ss1](ss1.psng)
+![ss1](ss1.png)
